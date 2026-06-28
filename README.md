@@ -41,8 +41,7 @@ inform field sales prioritisation and perfect store strategy.
 
 ## Dashboard
 
-Full dashboard export available here: [Nudie Juice – Compliance Check at IGA](assets/Metabase_-_Nudie_Juice_-_Compliance_Check_at_IGA.pdf)
-
+Full dashboard export available here: [Nudie Juice – Compliance Check at IGA](assets/Metabase%20-%20Nudie%20-%20Compliance%20Check%20at%20IGA.pdf)
 ---
 
 ### Perfect Store Compliance & Location Map
