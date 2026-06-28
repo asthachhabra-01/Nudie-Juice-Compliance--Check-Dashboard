@@ -42,13 +42,6 @@ inform field sales prioritisation and perfect store strategy.
 ## Dashboard Screenshots
 
 ### Perfect Store Compliance & Location Map
-![Compliance Overview](assets/nudie_compliance_overview.png)
-
-### Penetration Across Store Zones
-![Zone Penetration](assets/nudie_zone_penetration.png)
-
-### SKU Availability & Pricing
-![SKU and Pricing](assets/nudie_sku_pricing.png)
 
 ---
 
@@ -81,5 +74,5 @@ avoid shopper confusion.
 
 ## SQL Queries
 
-The SQL queries powering this dashboard are documented in the [`/queries`](./queries) folder, 
+SQL queries powering this dashboard are available in [`queries.sql`](./queries.sql) 
 with comments explaining the business logic behind each one.
