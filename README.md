@@ -39,12 +39,15 @@ inform field sales prioritisation and perfect store strategy.
 
 ---
 
-## Dashboard
+## Dashboard Overview
 
-The full dashboard is available as a PDF in the [`/assets`](./assets) folder.
+### Penetration in Store Zones
+![Penetration In Store Zones](assets/Peneteration%20In%20Store%20Zones.png)
+
+### SKU Availability & Price Ticket
+![SKU Availability & Price Ticket](assets/SKU%20Availability%20%26%20Price%20Ticket.png)
 
 ---
-
 
 ## Key Insights
 
