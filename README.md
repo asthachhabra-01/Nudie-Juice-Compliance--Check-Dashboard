@@ -39,13 +39,13 @@ inform field sales prioritisation and perfect store strategy.
 
 ---
 
-## Dashboard Overview
+## Dashboard
 
 ### Penetration in Store Zones
-![Penetration In Store Zones](assets/Peneteration%20In%20Store%20Zones.png)
+![Penetration In Store Zones](https://raw.githubusercontent.com/asthachhabra-01/Nudie-Juice-Execution-Analytics-Dashboard/main/Peneteration%20In%20Store%20Zones.png)
 
 ### SKU Availability & Price Ticket
-![SKU Availability & Price Ticket](assets/SKU%20Availability%20%26%20Price%20Ticket.png)
+![SKU Availability & Price Ticket](https://raw.githubusercontent.com/asthachhabra-01/Nudie-Juice-Execution-Analytics-Dashboard/main/SKU%20Availability%20%26%20Price%20Ticket.png)
 
 ---
 
